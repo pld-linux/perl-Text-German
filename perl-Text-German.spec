@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Text
 %define	pnam	German
-Summary:	Text-German perl module
-Summary(pl):	Modu³ perla Text-German
+Summary:	Text::German perl module
+Summary(pl):	Modu³ perla Text::German
 Name:		perl-Text-German
 Version:	0.03
 Release:	8
@@ -15,10 +15,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Text-German perl module.
+Text::German perl module.
 
 %description -l pl
-Modu³ perla Text-German.
+Modu³ perla Text::German.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
