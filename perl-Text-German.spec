@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Text
-%define	pnam	German
+%define		pdir	Text
+%define		pnam	German
 Summary:	Text::German - German grundform reduction
 Summary(pl):	Text::German - redukcja niemieckich "Grundformen"
 Name:		perl-Text-German
