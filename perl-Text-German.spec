@@ -9,7 +9,7 @@ Summary:	Text::German - German grundform reduction
 Summary(pl):	Text::German - redukcja niemieckich "Grundformen"
 Name:		perl-Text-German
 Version:	0.03
-Release:	11
+Release:	12
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
