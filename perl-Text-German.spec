@@ -3,7 +3,7 @@ Summary:	Text-German perl module
 Summary(pl):	Modu³ perla Text-German
 Name:		perl-Text-German
 Version:	0.03
-Release:	4
+Release:	5
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
