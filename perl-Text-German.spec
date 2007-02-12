@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	German
 Summary:	Text::German - German grundform reduction
-Summary(pl):	Text::German - redukcja niemieckich "Grundformen"
+Summary(pl.UTF-8):   Text::German - redukcja niemieckich "Grundformen"
 Name:		perl-Text-German
 Version:	0.06
 Release:	1
@@ -28,14 +28,14 @@ students of mine. They remain anonymous because their work was the
 worst piece of code I ever saw. My code behaves mostly as their
 implementation did except it is about 75 times faster.
 
-%description -l pl
-To jest raczej niepe³na implementacja pracy autorstwa Gudrun
-Putze-Meier <gudrun.pm@t-online.de>. Autor modu³u przyznaje, ¿e nigdy
-nie czyta³ jej oryginalnego artyku³u, wiêc ca³y zaszczyt przys³uguje
-jej, a b³êdy autorowi modu³u. Autor próbowa³ korzystaæ z implementacji
-swoich dwóch studentów, którzy pozostan± anonimowi, poniewa¿ ich praca
-by³a najgorszym kawa³kiem kodu, jaki widzia³ autor. Ten kod zachowuje
-siê w wiêkszo¶ci tak, jak implementacja studentów, ale jest oko³o 75
+%description -l pl.UTF-8
+To jest raczej niepeÅ‚na implementacja pracy autorstwa Gudrun
+Putze-Meier <gudrun.pm@t-online.de>. Autor moduÅ‚u przyznaje, Å¼e nigdy
+nie czytaÅ‚ jej oryginalnego artykuÅ‚u, wiÄ™c caÅ‚y zaszczyt przysÅ‚uguje
+jej, a bÅ‚Ä™dy autorowi moduÅ‚u. Autor prÃ³bowaÅ‚ korzystaÄ‡ z implementacji
+swoich dwÃ³ch studentÃ³w, ktÃ³rzy pozostanÄ… anonimowi, poniewaÅ¼ ich praca
+byÅ‚a najgorszym kawaÅ‚kiem kodu, jaki widziaÅ‚ autor. Ten kod zachowuje
+siÄ™ w wiÄ™kszoÅ›ci tak, jak implementacja studentÃ³w, ale jest okoÅ‚o 75
 razy szybszy.
 
 %prep
