@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	German
 Summary:	Text::German - German grundform reduction
-Summary(pl.UTF-8):   Text::German - redukcja niemieckich "Grundformen"
+Summary(pl.UTF-8):	Text::German - redukcja niemieckich "Grundformen"
 Name:		perl-Text-German
 Version:	0.06
 Release:	1
