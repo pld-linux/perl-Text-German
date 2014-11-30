@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	Text
 %define		pnam	German
+%include	/usr/lib/rpm/macros.perl
 Summary:	Text::German - German grundform reduction
 Summary(pl.UTF-8):	Text::German - redukcja niemieckich "Grundformen"
 Name:		perl-Text-German
@@ -14,6 +14,7 @@ License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	9e968525f7385c80d636a4ba68d27bf4
+URL:		http://search.cpan.org/dist/Text-German/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
