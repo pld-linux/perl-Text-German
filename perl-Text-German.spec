@@ -4,7 +4,6 @@
 
 %define		pdir	Text
 %define		pnam	German
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::German - German grundform reduction
 Summary(pl.UTF-8):	Text::German - redukcja niemieckich "Grundformen"
 Name:		perl-Text-German
